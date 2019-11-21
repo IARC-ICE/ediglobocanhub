@@ -195,13 +195,18 @@ tab.prod.plan <-
         EdI_cat = cut(EdI, breaks = c(edi.breaks, 1), labels = names(edi.breaks))
       ) %>%
       group_by(sex, cancer, EdI_cat, type) %>%
-      summarise(ASR_mean = mean(ASR) %>% round(digits = 1)) %>%
+      summarise(
+        ASR_mean = mean(ASR),
+        ASR_sd = sd(ASR)
+      ) %>%
       ungroup() %>%
-      mutate(ASR_label = paste('EdI', EdI_cat, type)) %>%
-      dplyr::select(cancer, sex, ASR_label, ASR_mean) %>%
+      mutate(
+        ASR_label = paste('EdI', EdI_cat, type),
+        ASR_txt = paste0(sprintf("%.1f",  ASR_mean), ' (', sprintf("%.1f",  ASR_sd),')')
+      ) %>%
+      dplyr::select(cancer, sex, ASR_label, ASR_txt) %>%
       group_by(cancer, sex) %>%
-      mutate(ASR_mean = sprintf("%.1f",  ASR_mean)) %>%
-      spread(ASR_label, ASR_mean) %>% 
+      spread(ASR_label, ASR_txt) %>% 
       ungroup() %>%
       dplyr::select(
         Cancer = cancer, Sex = sex, `EdI Low cancer incidence`, `EdI Low cancer mortality`,
