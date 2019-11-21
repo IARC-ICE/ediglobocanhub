@@ -59,7 +59,13 @@ The analysis have been conducted using [R 3.6.1](https://cran.r-project.org/) so
 
 All the scripts are stored within `scripts` directory
 
-The detailed workflow is describe in [ediglobocan-graph.html](docs/ediglobocan-graph.html)
+The detailed workflow is shown below
+
+![ediglobocan-graph.png](docs/ediglobocan-graph.png)
+
+**interactive verstion** [ediglobocan-graph.html](docs/ediglobocan-graph.html)
+
+
 
 ### 02-001_ediglobocan_make.R
 

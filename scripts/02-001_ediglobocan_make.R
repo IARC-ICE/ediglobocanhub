@@ -347,6 +347,8 @@ vis_drake_graph(
   selfcontained = if(save.vis) TRUE else FALSE
 )
 
+vis_drake_graph(config.full, file = '../docs/ediglobocan-graph.png')
+
 ## 8.3 run plan ----
 # clean(destroy = TRUE)
 make(plan.full)
