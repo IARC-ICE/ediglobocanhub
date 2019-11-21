@@ -1,176 +1,176 @@
 "","EdI category","Country","EdI","Incidence rate all cancers","Mortality rate all cancers"
-"1","Low","Niger",0.269,69.3,61.7
-"2","Low","Central African Republic",0.313,91.1,76.8
-"3","Low","South Sudan",0.318,117.8,95.8
-"4","Low","Burkina Faso",0.348,115.1,97.6
-"5","Low","Eritrea",0.35,95.7,76.4
-"6","Low","Liberia",0.353,102,84.4
-"7","Low","Burundi",0.354,139.5,115.8
-"8","Low","Chad",0.359,93,75.1
-"9","Low","Mali",0.361,132.8,105.9
-"10","Low","Yemen",0.365,74.8,56.8
-"11","Low","Mozambique",0.373,126,95
-"12","Low","Ethiopia",0.374,97,73.1
-"13","Low","Sierra Leone",0.385,98.4,77.3
-"14","Low","Gambia",0.391,57.2,52.2
-"15","Low","Guinea",0.394,97.8,82.1
-"16","Low","Democratic Republic of the Congo",0.395,105.4,83.4
-"17","Low","Malawi",0.401,162.9,121.6
-"18","Low","Guinea-Bissau",0.403,94.5,78.8
-"19","Low","Djibouti",0.405,85.7,63.1
-"20","Low","Senegal",0.421,116.6,88.4
-"21","Low","Afghanistan",0.427,98.8,79.7
-"22","Low","Haiti",0.43,140.8,103.1
-"23","Low","Sudan",0.43,94.2,66.6
-"24","Low","Comoros",0.433,96.1,75.5
-"25","Low","Madagascar",0.443,111.4,81.6
-"26","Low","Rwanda",0.443,134.8,103.8
-"27","Low","Syrian Arab Republic",0.444,166.3,103.8
-"28","Low","Togo",0.452,100.1,75
-"29","Low","Solomon Islands",0.454,117.5,78.9
-"30","Low","Mauritania",0.459,96,72.2
-"31","Low","Benin",0.463,124.1,90.9
-"32","Low","United Republic of Tanzania",0.467,128.7,92.9
-"33","Low","Uganda",0.472,149.4,109
-"34","Low","Côte d'Ivoire",0.476,107.8,81.6
-"35","Low","Papua New Guinea",0.479,189.1,127.4
-"36","Low","Zimbabwe",0.487,193.7,144.1
-"37","Low","Nepal",0.493,101.7,76.8
-"38","Low","Pakistan",0.497,112.1,78.9
-"39","Low","Cambodia",0.509,122.2,96.6
-"40","Low","Lesotho",0.515,114.2,85.1
-"41","Low","Myanmar",0.518,127.6,96.2
-"42","Low","Vanuatu",0.521,103.1,69.6
-"43","Low","Bangladesh",0.527,105,76.7
-"44","Low","Honduras",0.532,133.1,81.1
-"45","Low","Kenya",0.532,172.4,127.3
-"46","Low","Sao Tome and Principe",0.533,113,75.3
-"47","Low","Nigeria",0.538,101.3,66.1
-"48","Low","Cameroon",0.539,105.7,74.3
-"49","Low","Bhutan",0.543,87.2,76
-"50","Low","Lao People's Democratic Republic",0.548,152.3,115
-"51","Medium","Angola",0.552,103.1,73.3
-"52","Medium","Ghana",0.56,124.3,85.8
-"53","Medium","Zambia",0.56,134.4,89.3
-"54","Medium","Congo",0.567,76.2,51.4
-"55","Medium","Timor-Leste",0.568,84,61.5
-"56","Medium","Nicaragua",0.577,137.3,80.2
-"57","Medium","Guatemala",0.578,123.9,70.9
-"58","Medium","Cabo Verde",0.585,149,111.1
-"59","Medium","Morocco",0.585,137.7,86.1
-"60","Medium","Eswatini",0.588,121,83.7
-"61","Medium","India",0.59,88.6,61
-"62","Medium","Tajikistan",0.59,86.5,64.9
-"63","Medium","Equatorial Guinea",0.593,98.9,73
-"64","Medium","El Salvador",0.609,140.6,79.9
-"65","Medium","Viet Nam",0.62,150.4,104.1
-"66","Medium","Kyrgyzstan",0.622,124.4,90.1
-"67","Medium","Guyana",0.623,105.3,67.8
-"68","Medium","Namibia",0.624,120.2,72
-"69","Medium","West Bank and Gaza Strip",0.625,156.3,99.7
-"70","Medium","Maldives",0.644,115.9,68.7
-"71","Medium","Iraq",0.645,101.4,63.2
-"72","Medium","Egypt",0.651,155.4,105.9
-"73","Medium","Paraguay",0.651,169.4,85.7
-"74","Medium","Samoa",0.652,207.4,115.3
-"75","Medium","Republic of Moldova",0.656,247.5,136.4
-"76","Medium","Bolivia (Plurinational State of)",0.66,139.4,86.9
-"77","Medium","Libya",0.662,119.1,68.9
-"78","Medium","Indonesia",0.664,133.7,83
-"79","Medium","Philippines",0.671,162.2,103.8
-"80","Medium","Uzbekistan",0.672,90.7,60.5
-"81","Medium","Belize",0.675,122.2,77.5
-"82","Medium","Jamaica",0.675,201.7,119.9
-"83","Medium","Tunisia",0.679,112.8,70.2
-"84","Medium","Suriname",0.686,170.1,100.3
-"85","Medium","Lebanon",0.687,236.2,116.9
-"86","Medium","Jordan",0.689,157.3,89.4
-"87","Medium","Dominican Republic",0.691,162.6,92.9
-"88","Medium","Turkmenistan",0.691,115.4,83.5
-"89","Medium","Gabon",0.696,108.2,72.8
-"90","Medium","Saint Lucia",0.697,154.5,83.7
-"91","Medium","China",0.699,200.7,129.6
-"92","Medium","Ecuador",0.7,152.2,77.2
-"93","High","Algeria",0.704,127.9,72.1
-"94","High","Colombia",0.705,171.1,78.4
-"95","High","Peru",0.705,186.1,92
-"96","High","Botswana",0.709,99.5,60.2
-"97","High","North Macedonia",0.709,226.1,113.2
-"98","High","Thailand",0.71,156.1,104.1
-"99","High","South Africa",0.714,202.2,115.9
-"100","High","Brazil",0.715,205.8,90.5
-"101","High","Cuba",0.715,201.5,110.5
-"102","High","Armenia",0.716,192,133.3
-"103","High","Bosnia and Herzegovina",0.719,215.3,118.3
-"104","High","Venezuela (Bolivarian Republic of)",0.723,176.8,91.2
-"105","High","Fiji",0.724,162.9,92.6
-"106","High","Mexico",0.725,136.9,60.3
-"107","High","Ukraine",0.726,214.1,118
-"108","High","Mongolia",0.731,227.4,170
-"109","High","Sri Lanka",0.732,87.2,50.6
-"110","High","Albania",0.733,169.1,88.2
-"111","High","Azerbaijan",0.736,103.9,74.3
-"112","High","Costa Rica",0.737,179.5,80.2
-"113","High","Panama",0.742,162.9,76.3
-"114","High","Serbia",0.755,301.4,149.7
-"115","High","Turkey",0.757,219.1,120.8
-"116","High","Georgia",0.759,140.7,87
-"117","High","Mauritius",0.765,152.2,69.6
-"118","High","Uruguay",0.765,252.6,130.3
-"119","High","Iran (Islamic Republic of)",0.767,137.6,74.1
-"120","High","Barbados",0.772,242.1,122.1
-"121","High","Malaysia",0.778,138.4,84.9
-"122","High","Bahamas",0.782,175.6,89.3
-"123","High","Montenegro",0.782,215.2,110.5
-"124","High","Kuwait",0.784,121.1,67.6
-"125","High","Trinidad and Tobago",0.785,175.3,100.4
-"126","High","Oman",0.791,101.6,60.6
-"127","High","Romania",0.791,219.4,122.4
-"128","High","Bulgaria",0.797,234.8,118.7
-"129","Very High","Argentina",0.801,212.2,104.9
-"130","Very High","Portugal",0.802,252.4,103
-"131","Very High","Belarus",0.804,254.9,109.6
-"132","Very High","Croatia",0.805,280.5,136
-"133","Very High","Chile",0.806,188.2,95
-"134","Very High","Kazakhstan",0.816,163.6,108.8
-"135","Very High","Hungary",0.826,353.4,155.1
-"136","Very High","Russian Federation",0.83,217.2,118.7
-"137","Very High","Bahrain",0.831,105.2,70
-"138","Very High","Greece",0.836,273,109.3
-"139","Very High","Italy",0.838,277,93.6
-"140","Very High","Cyprus",0.839,242.1,106.1
-"141","Very High","Brunei Darussalam",0.841,216.2,102.3
-"142","Very High","Slovakia",0.846,291.2,140.8
-"143","Very High","Latvia",0.85,297.4,129
-"144","Very High","Malta",0.85,242.7,86.5
-"145","Very High","Spain",0.852,259.4,92
-"146","Very High","United Arab Emirates",0.852,105.9,58.3
-"147","Very High","Poland",0.853,249.5,133.7
-"148","Very High","Saudi Arabia",0.859,88.3,43.2
-"149","Very High","Estonia",0.863,279.7,117.6
-"150","Very High","Qatar",0.864,96.8,64.6
-"151","Very High","Lithuania",0.867,280,128
-"152","Very High","France",0.87,323,109.4
-"153","Very High","Slovenia",0.874,296.8,116.6
-"154","Very High","Israel",0.875,232.4,90.1
-"155","Very High","Japan",0.875,246.4,85
-"156","Very High","Republic of Korea",0.875,311.1,80.5
-"157","Very High","Czechia",0.879,284.2,106.1
-"158","Very High","Luxembourg",0.88,285.3,89.4
-"159","Very High","Austria",0.887,235.1,96.1
-"160","Very High","Finland",0.905,256.2,83.1
-"161","Very High","United Kingdom of Great Britain and Northern Ireland",0.907,296.4,102.2
-"162","Very High","Canada",0.908,285.5,92.2
-"163","Very High","New Zealand",0.91,299.8,97
-"164","Very High","Sweden",0.917,278.7,86.6
-"165","Very High","Netherlands",0.919,302.8,109.5
-"166","Very High","Singapore",0.919,245.8,117.4
-"167","Very High","Belgium",0.928,322.5,102.7
-"168","Very High","Switzerland",0.928,266.6,83.5
-"169","Very High","United States of America",0.929,296.8,90.3
-"170","Very High","Germany",0.934,285.6,103.9
-"171","Very High","Iceland",0.937,245.5,91.1
-"172","Very High","Denmark",0.941,323.6,114.1
-"173","Very High","Norway",0.951,322.6,93.9
-"174","Very High","Ireland",0.955,330.3,101.6
-"175","Very High","Australia",0.989,320.5,90.6
+"1","Low","Niger","0.269","69.3","61.7"
+"2","Low","Central African Republic","0.313","91.1","76.8"
+"3","Low","South Sudan","0.318","117.8","95.8"
+"4","Low","Burkina Faso","0.348","115.1","97.6"
+"5","Low","Eritrea","0.350","95.7","76.4"
+"6","Low","Liberia","0.353","102.0","84.4"
+"7","Low","Burundi","0.354","139.5","115.8"
+"8","Low","Chad","0.359","93.0","75.1"
+"9","Low","Mali","0.361","132.8","105.9"
+"10","Low","Yemen","0.365","74.8","56.8"
+"11","Low","Mozambique","0.373","126.0","95.0"
+"12","Low","Ethiopia","0.374","97.0","73.1"
+"13","Low","Sierra Leone","0.385","98.4","77.3"
+"14","Low","Gambia","0.391","57.2","52.2"
+"15","Low","Guinea","0.394","97.8","82.1"
+"16","Low","Democratic Republic of the Congo","0.395","105.4","83.4"
+"17","Low","Malawi","0.401","162.9","121.6"
+"18","Low","Guinea-Bissau","0.403","94.5","78.8"
+"19","Low","Djibouti","0.405","85.7","63.1"
+"20","Low","Senegal","0.421","116.6","88.4"
+"21","Low","Afghanistan","0.427","98.8","79.7"
+"22","Low","Haiti","0.430","140.8","103.1"
+"23","Low","Sudan","0.430","94.2","66.6"
+"24","Low","Comoros","0.433","96.1","75.5"
+"25","Low","Madagascar","0.443","111.4","81.6"
+"26","Low","Rwanda","0.443","134.8","103.8"
+"27","Low","Syrian Arab Republic","0.444","166.3","103.8"
+"28","Low","Togo","0.452","100.1","75.0"
+"29","Low","Solomon Islands","0.454","117.5","78.9"
+"30","Low","Mauritania","0.459","96.0","72.2"
+"31","Low","Benin","0.463","124.1","90.9"
+"32","Low","United Republic of Tanzania","0.467","128.7","92.9"
+"33","Low","Uganda","0.472","149.4","109.0"
+"34","Low","Côte d'Ivoire","0.476","107.8","81.6"
+"35","Low","Papua New Guinea","0.479","189.1","127.4"
+"36","Low","Zimbabwe","0.487","193.7","144.1"
+"37","Low","Nepal","0.493","101.7","76.8"
+"38","Low","Pakistan","0.497","112.1","78.9"
+"39","Low","Cambodia","0.509","122.2","96.6"
+"40","Low","Lesotho","0.515","114.2","85.1"
+"41","Low","Myanmar","0.518","127.6","96.2"
+"42","Low","Vanuatu","0.521","103.1","69.6"
+"43","Low","Bangladesh","0.527","105.0","76.7"
+"44","Low","Honduras","0.532","133.1","81.1"
+"45","Low","Kenya","0.532","172.4","127.3"
+"46","Low","Sao Tome and Principe","0.533","113.0","75.3"
+"47","Low","Nigeria","0.538","101.3","66.1"
+"48","Low","Cameroon","0.539","105.7","74.3"
+"49","Low","Bhutan","0.543","87.2","76.0"
+"50","Low","Lao People's Democratic Republic","0.548","152.3","115.0"
+"51","Medium","Angola","0.552","103.1","73.3"
+"52","Medium","Ghana","0.560","124.3","85.8"
+"53","Medium","Zambia","0.560","134.4","89.3"
+"54","Medium","Congo","0.567","76.2","51.4"
+"55","Medium","Timor-Leste","0.568","84.0","61.5"
+"56","Medium","Nicaragua","0.577","137.3","80.2"
+"57","Medium","Guatemala","0.578","123.9","70.9"
+"58","Medium","Cabo Verde","0.585","149.0","111.1"
+"59","Medium","Morocco","0.585","137.7","86.1"
+"60","Medium","Eswatini","0.588","121.0","83.7"
+"61","Medium","India","0.590","88.6","61.0"
+"62","Medium","Tajikistan","0.590","86.5","64.9"
+"63","Medium","Equatorial Guinea","0.593","98.9","73.0"
+"64","Medium","El Salvador","0.609","140.6","79.9"
+"65","Medium","Viet Nam","0.620","150.4","104.1"
+"66","Medium","Kyrgyzstan","0.622","124.4","90.1"
+"67","Medium","Guyana","0.623","105.3","67.8"
+"68","Medium","Namibia","0.624","120.2","72.0"
+"69","Medium","West Bank and Gaza Strip","0.625","156.3","99.7"
+"70","Medium","Maldives","0.644","115.9","68.7"
+"71","Medium","Iraq","0.645","101.4","63.2"
+"72","Medium","Egypt","0.651","155.4","105.9"
+"73","Medium","Paraguay","0.651","169.4","85.7"
+"74","Medium","Samoa","0.652","207.4","115.3"
+"75","Medium","Republic of Moldova","0.656","247.5","136.4"
+"76","Medium","Bolivia (Plurinational State of)","0.660","139.4","86.9"
+"77","Medium","Libya","0.662","119.1","68.9"
+"78","Medium","Indonesia","0.664","133.7","83.0"
+"79","Medium","Philippines","0.671","162.2","103.8"
+"80","Medium","Uzbekistan","0.672","90.7","60.5"
+"81","Medium","Belize","0.675","122.2","77.5"
+"82","Medium","Jamaica","0.675","201.7","119.9"
+"83","Medium","Tunisia","0.679","112.8","70.2"
+"84","Medium","Suriname","0.686","170.1","100.3"
+"85","Medium","Lebanon","0.687","236.2","116.9"
+"86","Medium","Jordan","0.689","157.3","89.4"
+"87","Medium","Dominican Republic","0.691","162.6","92.9"
+"88","Medium","Turkmenistan","0.691","115.4","83.5"
+"89","Medium","Gabon","0.696","108.2","72.8"
+"90","Medium","Saint Lucia","0.697","154.5","83.7"
+"91","Medium","China","0.699","200.7","129.6"
+"92","Medium","Ecuador","0.700","152.2","77.2"
+"93","High","Algeria","0.704","127.9","72.1"
+"94","High","Colombia","0.705","171.1","78.4"
+"95","High","Peru","0.705","186.1","92.0"
+"96","High","Botswana","0.709","99.5","60.2"
+"97","High","North Macedonia","0.709","226.1","113.2"
+"98","High","Thailand","0.710","156.1","104.1"
+"99","High","South Africa","0.714","202.2","115.9"
+"100","High","Brazil","0.715","205.8","90.5"
+"101","High","Cuba","0.715","201.5","110.5"
+"102","High","Armenia","0.716","192.0","133.3"
+"103","High","Bosnia and Herzegovina","0.719","215.3","118.3"
+"104","High","Venezuela (Bolivarian Republic of)","0.723","176.8","91.2"
+"105","High","Fiji","0.724","162.9","92.6"
+"106","High","Mexico","0.725","136.9","60.3"
+"107","High","Ukraine","0.726","214.1","118.0"
+"108","High","Mongolia","0.731","227.4","170.0"
+"109","High","Sri Lanka","0.732","87.2","50.6"
+"110","High","Albania","0.733","169.1","88.2"
+"111","High","Azerbaijan","0.736","103.9","74.3"
+"112","High","Costa Rica","0.737","179.5","80.2"
+"113","High","Panama","0.742","162.9","76.3"
+"114","High","Serbia","0.755","301.4","149.7"
+"115","High","Turkey","0.757","219.1","120.8"
+"116","High","Georgia","0.759","140.7","87.0"
+"117","High","Mauritius","0.765","152.2","69.6"
+"118","High","Uruguay","0.765","252.6","130.3"
+"119","High","Iran (Islamic Republic of)","0.767","137.6","74.1"
+"120","High","Barbados","0.772","242.1","122.1"
+"121","High","Malaysia","0.778","138.4","84.9"
+"122","High","Bahamas","0.782","175.6","89.3"
+"123","High","Montenegro","0.782","215.2","110.5"
+"124","High","Kuwait","0.784","121.1","67.6"
+"125","High","Trinidad and Tobago","0.785","175.3","100.4"
+"126","High","Oman","0.791","101.6","60.6"
+"127","High","Romania","0.791","219.4","122.4"
+"128","High","Bulgaria","0.797","234.8","118.7"
+"129","Very High","Argentina","0.801","212.2","104.9"
+"130","Very High","Portugal","0.802","252.4","103.0"
+"131","Very High","Belarus","0.804","254.9","109.6"
+"132","Very High","Croatia","0.805","280.5","136.0"
+"133","Very High","Chile","0.806","188.2","95.0"
+"134","Very High","Kazakhstan","0.816","163.6","108.8"
+"135","Very High","Hungary","0.826","353.4","155.1"
+"136","Very High","Russian Federation","0.830","217.2","118.7"
+"137","Very High","Bahrain","0.831","105.2","70.0"
+"138","Very High","Greece","0.836","273.0","109.3"
+"139","Very High","Italy","0.838","277.0","93.6"
+"140","Very High","Cyprus","0.839","242.1","106.1"
+"141","Very High","Brunei Darussalam","0.841","216.2","102.3"
+"142","Very High","Slovakia","0.846","291.2","140.8"
+"143","Very High","Latvia","0.850","297.4","129.0"
+"144","Very High","Malta","0.850","242.7","86.5"
+"145","Very High","Spain","0.852","259.4","92.0"
+"146","Very High","United Arab Emirates","0.852","105.9","58.3"
+"147","Very High","Poland","0.853","249.5","133.7"
+"148","Very High","Saudi Arabia","0.859","88.3","43.2"
+"149","Very High","Estonia","0.863","279.7","117.6"
+"150","Very High","Qatar","0.864","96.8","64.6"
+"151","Very High","Lithuania","0.867","280.0","128.0"
+"152","Very High","France","0.870","323.0","109.4"
+"153","Very High","Slovenia","0.874","296.8","116.6"
+"154","Very High","Israel","0.875","232.4","90.1"
+"155","Very High","Japan","0.875","246.4","85.0"
+"156","Very High","Republic of Korea","0.875","311.1","80.5"
+"157","Very High","Czechia","0.879","284.2","106.1"
+"158","Very High","Luxembourg","0.880","285.3","89.4"
+"159","Very High","Austria","0.887","235.1","96.1"
+"160","Very High","Finland","0.905","256.2","83.1"
+"161","Very High","United Kingdom of Great Britain and Northern Ireland","0.907","296.4","102.2"
+"162","Very High","Canada","0.908","285.5","92.2"
+"163","Very High","New Zealand","0.910","299.8","97.0"
+"164","Very High","Sweden","0.917","278.7","86.6"
+"165","Very High","Netherlands","0.919","302.8","109.5"
+"166","Very High","Singapore","0.919","245.8","117.4"
+"167","Very High","Belgium","0.928","322.5","102.7"
+"168","Very High","Switzerland","0.928","266.6","83.5"
+"169","Very High","United States of America","0.929","296.8","90.3"
+"170","Very High","Germany","0.934","285.6","103.9"
+"171","Very High","Iceland","0.937","245.5","91.1"
+"172","Very High","Denmark","0.941","323.6","114.1"
+"173","Very High","Norway","0.951","322.6","93.9"
+"174","Very High","Ireland","0.955","330.3","101.6"
+"175","Very High","Australia","0.989","320.5","90.6"

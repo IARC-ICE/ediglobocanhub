@@ -175,7 +175,12 @@ tab.prod.plan <-
         `Incidence rate all cancers` = `cancer incidence`,
         `Mortality rate all cancers` = `cancer mortality`
       ) %>%
-      arrange(EdI),
+      arrange(EdI) %>%
+      mutate(
+        EdI = sprintf("%.3f", EdI),
+        `Incidence rate all cancers` = sprintf("%.1f",  `Incidence rate all cancers`),
+        `Mortality rate all cancers` = sprintf("%.1f",  `Mortality rate all cancers`)
+      ),
     tab1.write = write.csv(
       tab1, 
       file = file_out(!!file.path('../results', out.version, 'SupplementTable1.csv'))
@@ -195,7 +200,9 @@ tab.prod.plan <-
       mutate(ASR_label = paste('EdI', EdI_cat, type)) %>%
       dplyr::select(cancer, sex, ASR_label, ASR_mean) %>%
       group_by(cancer, sex) %>%
-      spread(ASR_label, ASR_mean) %>% ungroup %>%
+      mutate(ASR_mean = sprintf("%.1f",  ASR_mean)) %>%
+      spread(ASR_label, ASR_mean) %>% 
+      ungroup() %>%
       dplyr::select(
         Cancer = cancer, Sex = sex, `EdI Low cancer incidence`, `EdI Low cancer mortality`,
         `EdI Medium cancer incidence`, `EdI Medium cancer mortality`, `EdI High cancer incidence`,
