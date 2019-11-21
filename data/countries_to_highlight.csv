@@ -1,0 +1,8 @@
+sex,cancer,col,row,fig_name,country,country_lab,hjust,nudge_x,vjust,nudge_y
+Both sexes,All cancers excl. non-melanoma skin cancer,1,1,fig1,United States of America,USA,0,0.1,0.5,0
+Both sexes,All cancers excl. non-melanoma skin cancer,1,1,fig1,India,IND,0,0.1,0.5,0
+Both sexes,All cancers excl. non-melanoma skin cancer,1,1,fig1,China,CHN,0,0.1,0.5,0
+Both sexes,All cancers excl. non-melanoma skin cancer,1,1,fig1,Japan,JPN,0,0.1,0.5,0
+Both sexes,All cancers excl. non-melanoma skin cancer,1,1,fig1,Uganda,UGA,0,0.1,0.5,0
+Both sexes,All cancers excl. non-melanoma skin cancer,1,1,fig1,France,FRA,0,0.1,0.5,0
+Both sexes,All cancers excl. non-melanoma skin cancer,1,1,fig1,Saudi Arabia,SAU,0,0.1,0.5,0

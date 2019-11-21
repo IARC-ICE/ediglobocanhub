@@ -1,0 +1,190 @@
+iso3,country_name,EdI
+AFG,Afghanistan,0.427
+ALB,Albania,0.733
+DZA,Algeria,0.704
+AND,Andorra,0.816
+AGO,Angola,0.552
+ATG,Antigua and Barbuda,0.737
+ARG,Argentina,0.801
+ARM,Armenia,0.716
+AUS,Australia,0.989
+AUT,Austria,0.887
+AZE,Azerbaijan,0.736
+BHS,Bahamas,0.782
+BHR,Bahrain,0.831
+BGD,Bangladesh,0.527
+BRB,Barbados,0.772
+BLR,Belarus,0.804
+BEL,Belgium,0.928
+BLZ,Belize,0.675
+BEN,Benin,0.463
+BTN,Bhutan,0.543
+BOL,Bolivia (Plurinational State of),0.66
+BIH,Bosnia and Herzegovina,0.719
+BWA,Botswana,0.709
+BRA,Brazil,0.715
+BRN,Brunei Darussalam,0.841
+BGR,Bulgaria,0.797
+BFA,Burkina Faso,0.348
+BDI,Burundi,0.354
+CPV,Cabo Verde,0.585
+KHM,Cambodia,0.509
+CMR,Cameroon,0.539
+CAN,Canada,0.908
+CAF,Central African Republic,0.313
+TCD,Chad,0.359
+CHL,Chile,0.806
+CHN,China,0.699
+COL,Colombia,0.705
+COM,Comoros,0.433
+COG,Congo,0.567
+COD,Congo (Democratic Republic of the),0.395
+CRI,Costa Rica,0.737
+CIV,Côte d'Ivoire,0.476
+HRV,Croatia,0.805
+CUB,Cuba,0.715
+CYP,Cyprus,0.839
+CZE,Czechia,0.879
+DNK,Denmark,0.941
+DJI,Djibouti,0.405
+DMA,Dominica,0.64
+DOM,Dominican Republic,0.691
+ECU,Ecuador,0.7
+EGY,Egypt,0.651
+SLV,El Salvador,0.609
+GNQ,Equatorial Guinea,0.593
+ERI,Eritrea,0.35
+EST,Estonia,0.863
+SWZ,Eswatini (Kingdom of),0.588
+ETH,Ethiopia,0.374
+FJI,Fiji,0.724
+FIN,Finland,0.905
+FRA,France,0.87
+GAB,Gabon,0.696
+GMB,Gambia,0.391
+GEO,Georgia,0.759
+DEU,Germany,0.934
+GHA,Ghana,0.56
+GRC,Greece,0.836
+GRD,Grenada,0.746
+GTM,Guatemala,0.578
+GIN,Guinea,0.394
+GNB,Guinea-Bissau,0.403
+GUY,Guyana,0.623
+HTI,Haiti,0.43
+HND,Honduras,0.532
+HKG,"Hong Kong, China (SAR)",0.906
+HUN,Hungary,0.826
+ISL,Iceland,0.937
+IND,India,0.59
+IDN,Indonesia,0.664
+IRN,Iran (Islamic Republic of),0.767
+IRQ,Iraq,0.645
+IRL,Ireland,0.955
+ISR,Israel,0.875
+ITA,Italy,0.838
+JAM,Jamaica,0.675
+JPN,Japan,0.875
+JOR,Jordan,0.689
+KAZ,Kazakhstan,0.816
+KEN,Kenya,0.532
+KIR,Kiribati,0.566
+KOR,Korea (Republic of),0.875
+KWT,Kuwait,0.784
+KGZ,Kyrgyzstan,0.622
+LAO,Lao People's Democratic Republic,0.548
+LVA,Latvia,0.85
+LBN,Lebanon,0.687
+LSO,Lesotho,0.515
+LBR,Liberia,0.353
+LBY,Libya,0.662
+LIE,Liechtenstein,0.926
+LTU,Lithuania,0.867
+LUX,Luxembourg,0.88
+MDG,Madagascar,0.443
+MWI,Malawi,0.401
+MYS,Malaysia,0.778
+MDV,Maldives,0.644
+MLI,Mali,0.361
+MLT,Malta,0.85
+MHL,Marshall Islands,0.656
+MRT,Mauritania,0.459
+MUS,Mauritius,0.765
+MEX,Mexico,0.725
+FSM,Micronesia (Federated States of),0.571
+MDA,Moldova (Republic of),0.656
+MNG,Mongolia,0.731
+MNE,Montenegro,0.782
+MAR,Morocco,0.585
+MOZ,Mozambique,0.373
+MMR,Myanmar,0.518
+NAM,Namibia,0.624
+NPL,Nepal,0.493
+NLD,Netherlands,0.919
+NZL,New Zealand,0.91
+NIC,Nicaragua,0.577
+NER,Niger,0.269
+NGA,Nigeria,0.538
+NOR,Norway,0.951
+OMN,Oman,0.791
+PAK,Pakistan,0.497
+PLW,Palau,0.786
+PSE,"Palestine, State of",0.625
+PAN,Panama,0.742
+PNG,Papua New Guinea,0.479
+PRY,Paraguay,0.651
+PER,Peru,0.705
+PHL,Philippines,0.671
+POL,Poland,0.853
+PRT,Portugal,0.802
+QAT,Qatar,0.864
+ROU,Romania,0.791
+RUS,Russian Federation,0.83
+RWA,Rwanda,0.443
+KNA,Saint Kitts and Nevis,0.75
+LCA,Saint Lucia,0.697
+VCT,Saint Vincent and the Grenadines,0.679
+WSM,Samoa,0.652
+STP,Sao Tome and Principe,0.533
+SAU,Saudi Arabia,0.859
+SEN,Senegal,0.421
+SRB,Serbia,0.755
+SYC,Seychelles,0.782
+SLE,Sierra Leone,0.385
+SGP,Singapore,0.919
+SVK,Slovakia,0.846
+SVN,Slovenia,0.874
+SLB,Solomon Islands,0.454
+ZAF,South Africa,0.714
+SSD,South Sudan,0.318
+ESP,Spain,0.852
+LKA,Sri Lanka,0.732
+SDN,Sudan,0.43
+SUR,Suriname,0.686
+SWE,Sweden,0.917
+CHE,Switzerland,0.928
+SYR,Syrian Arab Republic,0.444
+TJK,Tajikistan,0.59
+TZA,Tanzania (United Republic of),0.467
+THA,Thailand,0.71
+MKD,The former Yugoslav Republic of Macedonia,0.709
+TLS,Timor-Leste,0.568
+TGO,Togo,0.452
+TON,Tonga,0.684
+TTO,Trinidad and Tobago,0.785
+TUN,Tunisia,0.679
+TUR,Turkey,0.757
+TKM,Turkmenistan,0.691
+UGA,Uganda,0.472
+UKR,Ukraine,0.726
+ARE,United Arab Emirates,0.852
+GBR,United Kingdom,0.907
+USA,United States,0.929
+URY,Uruguay,0.765
+UZB,Uzbekistan,0.672
+VUT,Vanuatu,0.521
+VEN,Venezuela (Bolivarian Republic of),0.723
+VNM,Viet Nam,0.62
+YEM,Yemen,0.365
+ZMB,Zambia,0.56
+ZWE,Zimbabwe,0.487

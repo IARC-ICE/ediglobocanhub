@@ -1,0 +1,5 @@
+"cancer","sex","type","country","ASR_fake","label","hjust"
+"Thyroid","Both sexes","cancer incidence","Korea, Republic of",23,"KOR (60.7) ^",1
+"Liver","Both sexes","cancer incidence","Mongolia",35,"^ MNG (93.7 /        )",0
+"Liver","Both sexes","cancer mortality","Mongolia",35,"^                      75.4",0
+"Lip, oral cavity","Both sexes","cancer incidence","Papua New Guinea",14,"^ PNG (20.4)",0
