@@ -4,24 +4,7 @@ Joannie Lortet-Tieulent PhD, Damien Georges MSc, Freddie Bray PhD, Salvatore Vac
 
 International Agency for Research on Cancer, World Health Organization, Lyon, France
 
-This repository contains all the source code that have been used for the **Profiling global cancer incidence and mortality by socioeconomic development** paper (submitted)
-
-## Abstract
-
-**Background**  
-Economic and living conditions have improved over time in most countries, often in association with several detrimental lifestyle changes that are major determinants of cancer. We assess the association between national socioeconomic levels and incidence and mortality rates for all cancers combined and for 27 cancer types, in 174 countries.
-
-**Methods**  
-We obtained national level cancer incidence and mortality estimates for 2018 from GLOBOCAN and computed an index of socioeconomic development, named Education and Income index, based on national education and income levels extracted from the United Nations Development Programme.
-
-**Findings**  
-Cancer incidence rates are strongly and positively associated with the national socioeconomic level for all cancers combined and for a large number of cancer types, in both sexes. Conversely, a moderate positive association is observed for the all cancers combined mortality rate in men, but not in women. The most common pattern for type-specific cancers is an increasing incidence with a relatively stable mortality as socioeconomic development increases.
-
-**Interpretation**   
-Despite the high incidence rates in many cancer types, mortality rates are relatively low in high-income countries, probably due to the availability of early detection and effective treatments. As socioeconomic development continues to rise, countries with current low- and medium-development levels may experience large increases in the incidence of overall and many type-specific cancers. Given the limited resources and lack of infrastructure, increases in incidence rates will likely be paralleled by increases in mortality rates. Cancer prevention and careful planning of finite healthcare resources are therefore priorities.
-
-**Funding**   
-None.
+This repository contains all the source code that have been used for the **Profiling global cancer incidence and mortality by socioeconomic development** paper (in prep.)
 
 ## Data 
 
