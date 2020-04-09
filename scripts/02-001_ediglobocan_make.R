@@ -46,7 +46,7 @@ if(!require("checkpoint")) {install.packages("checkpoint"); require("checkpoint"
 checkpoint(
   "2019-11-21", 
   project = '../scripts', 
-  R.version = '3.6.1', 
+  R.version = '3.6.2', 
   checkpointLocation = '.',
   forceProject = FALSE
 )
@@ -60,7 +60,7 @@ require('visNetwork')
 source('../scripts/02-002_ediglobocan_functions.R')
 
 ## define the output version to keep a track of previous versions
-out.version <- 'lgh-001'
+out.version <- 'ijc-001'
 dir.create(file.path('../results', out.version), recursive = TRUE, showWarnings = FALSE)
 
 ## 1. read.dat.plan: read cancer incidence and morality ASR and EdI data ----

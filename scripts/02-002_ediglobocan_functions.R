@@ -79,6 +79,7 @@ gam_fit_tab <-
         ## no weights have assigned to countries since we want to model general trends 
         ## accross EdI gradient
         b <- gam(ASR ~ s(EdI, bs = 'cr'), data = df_, family = quasipoisson) 
+        # AER::dispersiontest(glm(ASR ~ splines::bs(EdI), data = df_, family = poisson), trafo = 1)
         s <- summary(b)
         df_pred_ <- 
           tibble(
@@ -95,7 +96,8 @@ gam_fit_tab <-
             EdI = df_pred_$EdI, 
             ASR = b_pred_$fit,
             ASR.se = b_pred_$se.fit,
-            mod.name = "gam", 
+            mod.name = "gam",
+            mod.disp = s$dispersion,
             mod.rsq = s$r.sq,
             mod.devexpl = s$dev.expl,
             mod.edf = s$edf,
@@ -159,6 +161,7 @@ plot_scatter  <-
         purrr::pmap(
           list(.data = data, .cancer = cancer, .sex = sex),
           function(.data, .cancer, .sex) {
+            
             ggplot(
               data =
                 data.frame(
@@ -704,3 +707,4 @@ gam_stack_plot <-
     
     gg.stack.out
   }
+
